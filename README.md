@@ -1,4 +1,4 @@
-# Estudos-em-Java
+# Estudos-em-Java-Introducao-POO
 
 Programas finais da aula básica de POO com Java da Alura.
 
